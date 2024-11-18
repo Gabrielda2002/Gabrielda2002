@@ -1,22 +1,35 @@
-# Hola :sparkles:, mi nombre es Gabriel Duarte :sparkles:
+# ¡Hola! 👋 Soy Gabriel Duarte
 
-> ###### Soy estudiante de **Analisis y desarrollo de software** en una institucion publica, desde hace ya 1 año y medio, aun me faltan 9 meses para graduarme y obtener mi titulo profesional, en mi curso nos enseñan full stack, pero en lo personal me gusta mas la parte **FrontEnd**.
+## 💻 Desarrollador Full Stack
+> Especializado en desarrollo backend con TypeScript y Express. Experiencia construyendo APIs REST con TypeORM.
+> Tambien con conocimientos solidos de ReactJs con TaildWindcss
 
-### Lenguajes en los que me enfoco mas:
-* CSS
+### 🛠️ Stack Tecnológico
+- **Lenguajes**: JavaScript, TypeScript, PHP, Python
+- **Backend**: Express, Node.js, TypeORM
+- **Bases de datos**: [MYSQL, Postgres]
+- **Frontend**: [ReactJs]
 
-* HTML
+### Aprendiendo
+- **Lenguajes**: C++, Java
+- **Framework**: Astro, Angular
 
-* Java
+### 💪 Habilidades Adicionales
+- Control de versiones: Git, GitHub
+- Metodologías ágiles: Scrum
+- Testing: Jest
 
-* Python
+### ⚡ Estadísticas Adicionales
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielda2002&layout=compact&theme=radical)
 
----
+### 📊 Estadísticas GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Gabrielda2002&show_icons=true&theme=radical)
 
-### Lenguajes en los que se las bases
+### 📫 Contacto
+- LinkedIn: [Gabriel Duarte](https://www.linkedin.com/in/gabriel-camilo-duarte-arias-9585b3272/)
+- Email: duartearias2002@gmail.com
 
-* JavaScript
-
-* SQL
-
-> ###### Tambien se algunas cosas de multimedia como es la edicion de fotos con Photoshop y edicion de videos con Sony Vegas.
+![](https://komarev.com/ghpvc/?username=Gabrielda2002)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
